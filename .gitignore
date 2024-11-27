@@ -365,3 +365,7 @@ FodyWeavers.xsd
 # Ignore assembliy files except my mod
 Assemblies/
 !Assemblies/IdeologyDoubt.dll
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+IdeologyDoubt.iml
