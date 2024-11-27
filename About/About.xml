@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+    <name>IdeologyDoubt</name>
+    <author>moardm</author>
+    <packageId>moardm.IdeologyDoubt</packageId>
+    <url>https://github.com/MoarDm/IdeologyDoubt</url>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <descriptionsByVersion>
+    </descriptionsByVersion>
+    <description>
+        This mod changes certainty rate depending on the pawn's mood
+    </description>
+    <modDependenciesByVersion>
+    </modDependenciesByVersion>
+    <loadAfterByVersion>
+    </loadAfterByVersion>
+</ModMetaData>
